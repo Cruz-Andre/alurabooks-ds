@@ -1,3 +1,39 @@
+![React: desenvolvendo uma biblioteca de componentes](curso.png)
+
+### Aula 1:
+- Criar um projeto base com o TSDX, React e Storybook; :white_check_mark:
+- Escrever uma story para apresentar o componente criado no Storybook; :white_check_mark:
+- Construir a biblioteca localmente, para testar o código desenvolvido; :white_check_mark:
+- Importar o componente criado no ambiente de teste local. :white_check_mark:
+### Aula 2:
+- Subir um projeto para o GitHub; :white_check_mark:
+- Conectar-se ao NPM; :white_check_mark:
+- Configurar o package.json corretamente, para que o pacote seja publicado com sucesso. :white_check_mark:
+- Desafio: criar um novo componente Card :white_check_mark:
+### Aula 3:
+- 
+### Aula 4: 
+- 
+### Aula 5:
+-  
+
+## 🔨 A saber sobre o projeto
+Vamos construir um pacote de componentes, ou seja, vamos fazer um pacote nosso, vamos desenvolver um pacote com vários componentes, e publicá-lo em um NPM. Esse é o desafio.
+
+## ✔️ Técnicas e tecnologias utilizadas
+- `React`
+- `TypeScript`
+- `StoryBook`
+- `TSDX`
+- `Styled Components`
+- `...`
+
+## 📚 Mais informações do curso
+
+Busque na plataforma da Alura o curso **React: desenvolvendo uma biblioteca de componentes** publicado na Escola Frontend.
+
+<br>
+
 # TSDX React w/ Storybook User Guide
 
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
