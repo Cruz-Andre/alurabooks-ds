@@ -5,13 +5,7 @@ import { ComponentMeta, ComponentStory } from '@storybook/react'
 
 export default {
   title: 'Componentes/AbCampoTexto',
-  component: AbCampoTexto,
-  argTypes:{
-    tituloLabel: {
-      control: 'text'
-    }
-  },
-  parameters: {actions: {argTypesRegex: '^on.*'}}
+  component: AbCampoTexto
 } as ComponentMeta<typeof AbCampoTexto>
 
 const Template: ComponentStory<typeof AbCampoTexto> = (args) => <AbCampoTexto {...args} />
