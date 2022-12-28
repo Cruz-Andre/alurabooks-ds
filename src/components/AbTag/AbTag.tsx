@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 export interface AbTagProps {
-  texto?: string
+  texto: string
 }
 
 const TagEstilizado = styled.div`
@@ -15,8 +15,7 @@ const TagEstilizado = styled.div`
   
 `
 
-
-export const AbTag = ({texto}: AbTagProps) => {
+export const AbTag = ({ texto }: AbTagProps) => {
   return (
     <TagEstilizado>
       {texto}

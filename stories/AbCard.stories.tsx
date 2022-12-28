@@ -10,7 +10,7 @@ export default {
 export const CardComponent = () => {
   return (
     <AbCard>
-      <h1>Sobre o Livro</h1>
+      <h1>Componente Card</h1>
     </AbCard>
   )
 }

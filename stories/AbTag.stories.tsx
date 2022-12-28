@@ -7,12 +7,6 @@ export default {
   component: AbTag
 } as ComponentMeta<typeof AbTag>
 
-// export const CardComponent = () => {
-//   return (
-//     <AbTag texto="android"/>
-//   )
-// }
-
 const Template: ComponentStory<typeof AbTag> = (args) => <AbTag {...args} />
 
 export const Primario = Template.bind({})

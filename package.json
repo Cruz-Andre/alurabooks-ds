@@ -29,12 +29,6 @@
       "pre-commit": "tsdx lint"
     }
   },
-  "prettier": {
-    "printWidth": 80,
-    "semi": false,
-    "singleQuote": false,
-    "trailingComma": "es5"
-  },
   "name": "alurabooks-ds-andre",
   "author": "Andre",
   "module": "dist/alurabooks-ds.esm.js",

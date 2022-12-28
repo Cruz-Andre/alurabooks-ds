@@ -8,16 +8,19 @@
 ### Aula 2:
 - Subir um projeto para o GitHub; :white_check_mark:
 - Conectar-se ao NPM; :white_check_mark:
-- Configurar o package.json corretamente, para que o pacote seja publicado com sucesso. :white_check_mark:
-- Desafio: criar um novo componente Card :white_check_mark:
+- Configurar o package.json corretamente, para que o pacote seja publicado com sucesso; :white_check_mark:
+- Desafio: criar um novo componente Card. :white_check_mark:
 ### Aula 3:
 - Evoluir um componente existente; :white_check_mark:
 - Atualizar uma story para contemplar suas variantes; :white_check_mark:
 - Criar um componente de input de texto; :white_check_mark:
-- Atualizar a versão do pacote NPM manualmente. :white_check_mark:
+- Atualizar a versão do pacote NPM manualmente; :white_check_mark:
 - Desafio: criar um novo componente TAG. :white_check_mark:
-### Aula 4: 
-- 
+### Aula 4:
+- Organizar a criação de novos componentes; :white_check_mark:
+- Criar interfaces para as APIs dos componentes; :white_check_mark:
+- Utilizar as exportações recomendadas pelo StoryBook para gerar documentação de forma automática; :white_check_mark:
+- Desafio: criar um novo componente CampoTexto. :white_check_mark:
 ### Aula 5:
 -  
 
