@@ -22,7 +22,6 @@ const DivEstilizada = styled.div`
     font-weight: 400;
     color: #002F52;
     color:placeholder #A4A4A4;
-    
   }
 
 `
@@ -44,4 +43,3 @@ export const AbCampoTexto = ({ tituloLabel, placeholder, value, type, onChange  
     </DivEstilizada>
   )
 }
-

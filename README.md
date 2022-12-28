@@ -21,8 +21,11 @@
 - Criar interfaces para as APIs dos componentes; :white_check_mark:
 - Utilizar as exportações recomendadas pelo StoryBook para gerar documentação de forma automática; :white_check_mark:
 - Desafio: criar um novo componente CampoTexto. :white_check_mark:
-### Aula 5:
--  
+### Aula 5 final:
+- Configurar o auto para automatizar tarefas; :white_check_mark:
+- Utilizar as Actions do github para realizar tarefas repetitivas; :white_check_mark:
+- Realizar a publicação do pacote NPM a cada commit para master; :white_check_mark:
+- Desafio criar um novo componente InputQuantidade. :white_check_mark:
 
 ## 🔨 A saber sobre o projeto
 Vamos construir um pacote de componentes, ou seja, vamos fazer um pacote nosso, vamos desenvolver um pacote com vários componentes, e publicá-lo em um NPM. Esse é o desafio.
