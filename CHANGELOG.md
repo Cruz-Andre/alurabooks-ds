@@ -1,3 +1,15 @@
+# v0.2.3 (Fri Dec 30 2022)
+
+#### ⚠️ Pushed to `master`
+
+- corrigindo exportações dos componentes ([@Cruz-Andre](https://github.com/Cruz-Andre))
+
+#### Authors: 1
+
+- André Cruz ([@Cruz-Andre](https://github.com/Cruz-Andre))
+
+---
+
 # v0.2.2 (Thu Dec 29 2022)
 
 #### ⚠️ Pushed to `master`
